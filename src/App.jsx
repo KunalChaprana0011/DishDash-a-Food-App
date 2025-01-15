@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Home from "./pages/home";
-import Success from "./pages/success";
-import Error from "./pages/error";
+import Home from "./pages/Home";
+import Success from "./pages/Success";
+import Error from "./pages/Error";
 import ProtectedRoute from "./components/ProtectedRoute";
 
 function App() {
