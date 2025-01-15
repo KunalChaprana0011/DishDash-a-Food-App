@@ -5,11 +5,11 @@ import Navbar from "../components/Navbar";
 
 const Home = () => {
   return (
-    <>
-      <Navbar />
+    < >
+      <Navbar  />
       <CategoryMenu />
-      <FoodItems />
-      <Cart />
+      <FoodItems  />
+      <Cart   />
     </>
   );
 };
