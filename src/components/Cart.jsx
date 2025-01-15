@@ -26,7 +26,7 @@ const Cart = () => {
           activeCart ? "translate-x-0" : "translate-x-full"
         } transition-all duration-500 ease-in-out`}
         style={{
-          backgroundImage : 'url(/public/bgggg.jpg)'
+          backgroundImage : 'url(/bgggg.jpg)'
         }}
       >
         <div className="flex justify-between p-3 items-center ">
